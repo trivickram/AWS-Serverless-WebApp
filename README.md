@@ -68,22 +68,7 @@ It combines frontend form interactions with backend logic and storage — **enti
 
 ---
 
-## 📸 Screenshots
 
-### 📨 Contact Form UI
-![Contact Form](Lambda\Form-Submission\image.png)
-
-### 🔗 Thank You Note
-![API Gateway](Lambda\Form-Submission\image1.png)
-
-### 🧠 Lambda Function
-![Lambda Function](screenshots/lambda_function.png)
-
-### 📊 DynamoDB Table
-![DynamoDB](screenshots/dynamodb.png)
-
-
----
 
 ## 📌 Deployment Notes
 
